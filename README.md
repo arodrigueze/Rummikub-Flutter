@@ -1,16 +1,9 @@
-# countdownrummy
+# Countdown counter 
 
-A new Flutter project.
+Flutter application for table games.
 
-## Getting Started
+If you want to play table game with time per player use this app.
 
-This project is a starting point for a Flutter application.
+You can set 15, 30, 60 and 90 seconds, when your turn ends tap on next, when your time is over counter will start automatically and a sound will notify the end of your turn.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Image](./appImage.png)
